@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NASA Search Results</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-image: url('https://images6.alphacoders.com/116/1163869.png'); /* Replace with your image URL */
+            background-size: full; /* Makes the image cover the entire background */
+            background-position: center; /* Centers the background image */
+            color: black; /* Optional: Changes text color to white for better contrast */
+        }
+        .container {
+            background-color: rgba(0, 0, 0, 0.7); /* Optional: Adds a semi-transparent background to the container */
+            padding: 20px;
+            border-radius: 8px; /* Optional: Rounds the corners of the container */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Search Results</h1>
+        <div class="row">
+            {% for item in results %}
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <img src="{{ item['links'][0]['href'] }}" class="card-img-top" alt="{{ item['data'][0]['title'] }}">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ item['data'][0]['title'] }}</h5>
+                        <p class="card-text">{{ item['data'][0]['description'] }}</p>
+                        <a href="https://images.nasa.gov/#/" class="btn btn-primary" target="_blank">View More</a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

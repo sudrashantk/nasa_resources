@@ -1,0 +1,169 @@
+2024-10-06 11:23:24,678 WARNING:  * Debugger is active!
+2024-10-06 11:23:24,683 INFO:  * Debugger PIN: 321-269-989
+2024-10-06 11:25:22,283 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-06 11:25:22,284 INFO: [33mPress CTRL+C to quit[0m
+2024-10-06 11:25:22,287 INFO:  * Restarting with stat
+2024-10-06 11:25:23,789 WARNING:  * Debugger is active!
+2024-10-06 11:25:23,792 INFO:  * Debugger PIN: 321-269-989
+2024-10-06 11:26:59,354 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-06 11:26:59,369 INFO: [33mPress CTRL+C to quit[0m
+2024-10-06 11:26:59,373 INFO:  * Restarting with stat
+2024-10-06 11:27:00,891 WARNING:  * Debugger is active!
+2024-10-06 11:27:00,896 INFO:  * Debugger PIN: 321-269-989
+2024-10-06 11:27:06,229 INFO: 127.0.0.1 - - [06/Oct/2024 11:27:06] "GET / HTTP/1.1" 200 -
+2024-10-06 11:27:06,250 INFO: 127.0.0.1 - - [06/Oct/2024 11:27:06] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 11:27:06,374 INFO: 127.0.0.1 - - [06/Oct/2024 11:27:06] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 11:27:31,693 INFO: Search results retrieved successfully for query: fire
+2024-10-06 11:27:31,722 INFO: 127.0.0.1 - - [06/Oct/2024 11:27:31] "POST /search HTTP/1.1" 200 -
+2024-10-06 11:27:52,153 INFO: Search results retrieved successfully for query: fire
+2024-10-06 11:27:52,155 INFO: 127.0.0.1 - - [06/Oct/2024 11:27:52] "POST /search HTTP/1.1" 200 -
+2024-10-06 11:27:54,931 INFO: 127.0.0.1 - - [06/Oct/2024 11:27:54] "[31m[1mGET /search?page=1 HTTP/1.1[0m" 405 -
+2024-10-06 11:28:52,639 INFO:  * Detected change in 'C:\\Users\\sudarshan\\api nasa\\app.py', reloading
+2024-10-06 11:28:52,767 INFO:  * Restarting with stat
+2024-10-06 11:28:54,574 WARNING:  * Debugger is active!
+2024-10-06 11:28:54,578 INFO:  * Debugger PIN: 321-269-989
+2024-10-06 11:29:41,919 INFO: Search results retrieved successfully for query: fire and media type: audio
+2024-10-06 11:29:41,987 INFO: 127.0.0.1 - - [06/Oct/2024 11:29:41] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+2024-10-06 11:29:42,199 INFO: 127.0.0.1 - - [06/Oct/2024 11:29:42] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-06 11:29:42,201 INFO: 127.0.0.1 - - [06/Oct/2024 11:29:42] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-06 11:29:42,226 INFO: 127.0.0.1 - - [06/Oct/2024 11:29:42] "GET /search?__debugger__=yes&cmd=resource&f=console.png&s=9jGfyGGu5wETFtHvnV5c HTTP/1.1" 200 -
+2024-10-06 11:29:42,296 INFO: 127.0.0.1 - - [06/Oct/2024 11:29:42] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-06 11:29:58,109 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-06 11:29:58,109 INFO: [33mPress CTRL+C to quit[0m
+2024-10-06 11:29:58,112 INFO:  * Restarting with stat
+2024-10-06 11:29:59,605 WARNING:  * Debugger is active!
+2024-10-06 11:29:59,612 INFO:  * Debugger PIN: 321-269-989
+2024-10-06 11:30:05,621 INFO: Search results retrieved successfully for query: fire and media type: audio
+2024-10-06 11:30:05,665 INFO: 127.0.0.1 - - [06/Oct/2024 11:30:05] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+2024-10-06 11:30:05,817 INFO: 127.0.0.1 - - [06/Oct/2024 11:30:05] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-06 11:30:05,829 INFO: 127.0.0.1 - - [06/Oct/2024 11:30:05] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-06 11:30:05,869 INFO: 127.0.0.1 - - [06/Oct/2024 11:30:05] "GET /search?__debugger__=yes&cmd=resource&f=console.png&s=n3UYBt7qd8cxO9JV3dx6 HTTP/1.1" 200 -
+2024-10-06 11:30:05,947 INFO: 127.0.0.1 - - [06/Oct/2024 11:30:05] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-06 11:31:24,408 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-06 11:31:24,408 INFO: [33mPress CTRL+C to quit[0m
+2024-10-06 11:31:24,412 INFO:  * Restarting with stat
+2024-10-06 11:31:25,874 WARNING:  * Debugger is active!
+2024-10-06 11:31:25,878 INFO:  * Debugger PIN: 321-269-989
+2024-10-06 11:32:03,146 INFO: 127.0.0.1 - - [06/Oct/2024 11:32:03] "GET / HTTP/1.1" 200 -
+2024-10-06 11:32:03,382 INFO: 127.0.0.1 - - [06/Oct/2024 11:32:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-06 11:32:05,735 INFO: 127.0.0.1 - - [06/Oct/2024 11:32:05] "GET / HTTP/1.1" 200 -
+2024-10-06 11:32:06,285 INFO: 127.0.0.1 - - [06/Oct/2024 11:32:06] "GET / HTTP/1.1" 200 -
+2024-10-06 11:32:06,503 INFO: 127.0.0.1 - - [06/Oct/2024 11:32:06] "GET / HTTP/1.1" 200 -
+2024-10-06 11:32:25,506 INFO: 127.0.0.1 - - [06/Oct/2024 11:32:25] "GET / HTTP/1.1" 200 -
+2024-10-06 11:32:27,784 INFO: 127.0.0.1 - - [06/Oct/2024 11:32:27] "GET / HTTP/1.1" 200 -
+2024-10-06 11:32:27,998 INFO: 127.0.0.1 - - [06/Oct/2024 11:32:27] "GET / HTTP/1.1" 200 -
+2024-10-06 11:32:28,191 INFO: 127.0.0.1 - - [06/Oct/2024 11:32:28] "GET / HTTP/1.1" 200 -
+2024-10-06 11:34:20,353 INFO: 127.0.0.1 - - [06/Oct/2024 11:34:20] "GET / HTTP/1.1" 200 -
+2024-10-06 11:34:26,631 INFO: 127.0.0.1 - - [06/Oct/2024 11:34:26] "GET / HTTP/1.1" 200 -
+2024-10-06 11:34:26,891 INFO: 127.0.0.1 - - [06/Oct/2024 11:34:26] "GET / HTTP/1.1" 200 -
+2024-10-06 11:34:27,140 INFO: 127.0.0.1 - - [06/Oct/2024 11:34:27] "GET / HTTP/1.1" 200 -
+2024-10-06 11:34:27,358 INFO: 127.0.0.1 - - [06/Oct/2024 11:34:27] "GET / HTTP/1.1" 200 -
+2024-10-06 11:34:27,558 INFO: 127.0.0.1 - - [06/Oct/2024 11:34:27] "GET / HTTP/1.1" 200 -
+2024-10-06 11:34:27,757 INFO: 127.0.0.1 - - [06/Oct/2024 11:34:27] "GET / HTTP/1.1" 200 -
+2024-10-06 11:34:27,948 INFO: 127.0.0.1 - - [06/Oct/2024 11:34:27] "GET / HTTP/1.1" 200 -
+2024-10-06 11:34:28,147 INFO: 127.0.0.1 - - [06/Oct/2024 11:34:28] "GET / HTTP/1.1" 200 -
+2024-10-06 11:34:30,115 INFO: 127.0.0.1 - - [06/Oct/2024 11:34:30] "GET / HTTP/1.1" 200 -
+2024-10-06 11:34:30,733 INFO: 127.0.0.1 - - [06/Oct/2024 11:34:30] "GET / HTTP/1.1" 200 -
+2024-10-06 11:34:33,537 INFO: 127.0.0.1 - - [06/Oct/2024 11:34:33] "GET / HTTP/1.1" 200 -
+2024-10-06 11:34:33,811 INFO: 127.0.0.1 - - [06/Oct/2024 11:34:33] "GET / HTTP/1.1" 200 -
+2024-10-06 11:34:34,038 INFO: 127.0.0.1 - - [06/Oct/2024 11:34:34] "GET / HTTP/1.1" 200 -
+2024-10-06 11:35:57,319 INFO:  * Detected change in 'C:\\Users\\sudarshan\\api nasa\\app.py', reloading
+2024-10-06 11:35:57,414 INFO:  * Restarting with stat
+2024-10-06 11:35:59,121 WARNING:  * Debugger is active!
+2024-10-06 11:35:59,128 INFO:  * Debugger PIN: 321-269-989
+2024-10-06 11:36:02,847 INFO: 127.0.0.1 - - [06/Oct/2024 11:36:02] "GET / HTTP/1.1" 200 -
+2024-10-06 11:36:02,874 INFO: 127.0.0.1 - - [06/Oct/2024 11:36:02] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 11:36:02,886 INFO: 127.0.0.1 - - [06/Oct/2024 11:36:02] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 11:39:15,394 INFO: 127.0.0.1 - - [06/Oct/2024 11:39:15] "GET / HTTP/1.1" 200 -
+2024-10-06 11:39:15,447 INFO: 127.0.0.1 - - [06/Oct/2024 11:39:15] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 11:39:15,451 INFO: 127.0.0.1 - - [06/Oct/2024 11:39:15] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 11:39:17,762 INFO: 127.0.0.1 - - [06/Oct/2024 11:39:17] "GET / HTTP/1.1" 200 -
+2024-10-06 11:39:17,790 INFO: 127.0.0.1 - - [06/Oct/2024 11:39:17] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 11:39:17,802 INFO: 127.0.0.1 - - [06/Oct/2024 11:39:17] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 11:39:44,470 INFO: 127.0.0.1 - - [06/Oct/2024 11:39:44] "GET / HTTP/1.1" 200 -
+2024-10-06 11:39:44,494 INFO: 127.0.0.1 - - [06/Oct/2024 11:39:44] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 11:39:44,498 INFO: 127.0.0.1 - - [06/Oct/2024 11:39:44] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 11:39:45,808 INFO: 127.0.0.1 - - [06/Oct/2024 11:39:45] "GET / HTTP/1.1" 200 -
+2024-10-06 11:39:45,835 INFO: 127.0.0.1 - - [06/Oct/2024 11:39:45] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 11:39:45,839 INFO: 127.0.0.1 - - [06/Oct/2024 11:39:45] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 11:39:46,748 INFO: 127.0.0.1 - - [06/Oct/2024 11:39:46] "GET / HTTP/1.1" 200 -
+2024-10-06 11:39:46,769 INFO: 127.0.0.1 - - [06/Oct/2024 11:39:46] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 11:39:46,776 INFO: 127.0.0.1 - - [06/Oct/2024 11:39:46] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 11:41:24,643 INFO: 127.0.0.1 - - [06/Oct/2024 11:41:24] "GET / HTTP/1.1" 200 -
+2024-10-06 11:41:24,675 INFO: 127.0.0.1 - - [06/Oct/2024 11:41:24] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 11:41:24,690 INFO: 127.0.0.1 - - [06/Oct/2024 11:41:24] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 11:43:25,457 INFO: 127.0.0.1 - - [06/Oct/2024 11:43:25] "GET / HTTP/1.1" 200 -
+2024-10-06 11:43:25,479 INFO: 127.0.0.1 - - [06/Oct/2024 11:43:25] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 11:43:25,489 INFO: 127.0.0.1 - - [06/Oct/2024 11:43:25] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 11:46:17,416 INFO: 127.0.0.1 - - [06/Oct/2024 11:46:17] "GET / HTTP/1.1" 200 -
+2024-10-06 11:46:17,463 INFO: 127.0.0.1 - - [06/Oct/2024 11:46:17] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 11:46:17,499 INFO: 127.0.0.1 - - [06/Oct/2024 11:46:17] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 11:47:46,196 INFO: 127.0.0.1 - - [06/Oct/2024 11:47:46] "GET / HTTP/1.1" 200 -
+2024-10-06 11:47:46,226 INFO: 127.0.0.1 - - [06/Oct/2024 11:47:46] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 11:47:46,247 INFO: 127.0.0.1 - - [06/Oct/2024 11:47:46] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 11:48:52,306 INFO: 127.0.0.1 - - [06/Oct/2024 11:48:52] "GET / HTTP/1.1" 200 -
+2024-10-06 11:48:52,330 INFO: 127.0.0.1 - - [06/Oct/2024 11:48:52] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 11:48:52,340 INFO: 127.0.0.1 - - [06/Oct/2024 11:48:52] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 11:49:40,922 INFO: 127.0.0.1 - - [06/Oct/2024 11:49:40] "GET / HTTP/1.1" 200 -
+2024-10-06 11:49:40,948 INFO: 127.0.0.1 - - [06/Oct/2024 11:49:40] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 11:49:40,958 INFO: 127.0.0.1 - - [06/Oct/2024 11:49:40] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 11:49:47,549 INFO: 127.0.0.1 - - [06/Oct/2024 11:49:47] "GET / HTTP/1.1" 200 -
+2024-10-06 11:49:47,576 INFO: 127.0.0.1 - - [06/Oct/2024 11:49:47] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 11:49:47,593 INFO: 127.0.0.1 - - [06/Oct/2024 11:49:47] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 11:52:49,418 INFO: 127.0.0.1 - - [06/Oct/2024 11:52:49] "[33mGET /static/images/nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 12:08:38,816 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-06 12:08:38,816 INFO: [33mPress CTRL+C to quit[0m
+2024-10-06 12:08:38,820 INFO:  * Restarting with stat
+2024-10-06 12:08:40,283 WARNING:  * Debugger is active!
+2024-10-06 12:08:40,286 INFO:  * Debugger PIN: 321-269-989
+2024-10-06 12:08:49,358 INFO: 127.0.0.1 - - [06/Oct/2024 12:08:49] "GET / HTTP/1.1" 200 -
+2024-10-06 12:08:49,391 INFO: 127.0.0.1 - - [06/Oct/2024 12:08:49] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 12:08:49,410 INFO: 127.0.0.1 - - [06/Oct/2024 12:08:49] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 12:08:54,600 INFO: Search results retrieved successfully for query: fire
+2024-10-06 12:08:54,610 INFO: 127.0.0.1 - - [06/Oct/2024 12:08:54] "POST /search HTTP/1.1" 200 -
+2024-10-06 12:08:55,383 INFO: Search results retrieved successfully for query: fire
+2024-10-06 12:08:55,386 INFO: 127.0.0.1 - - [06/Oct/2024 12:08:55] "POST /search HTTP/1.1" 200 -
+2024-10-06 12:11:29,165 INFO: 127.0.0.1 - - [06/Oct/2024 12:11:29] "GET / HTTP/1.1" 200 -
+2024-10-06 12:11:29,189 INFO: 127.0.0.1 - - [06/Oct/2024 12:11:29] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 12:11:29,199 INFO: 127.0.0.1 - - [06/Oct/2024 12:11:29] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 12:12:42,759 INFO: 127.0.0.1 - - [06/Oct/2024 12:12:42] "GET / HTTP/1.1" 200 -
+2024-10-06 12:12:42,784 INFO: 127.0.0.1 - - [06/Oct/2024 12:12:42] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 12:12:42,793 INFO: 127.0.0.1 - - [06/Oct/2024 12:12:42] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 12:13:04,767 INFO: Search results retrieved successfully for query: fire
+2024-10-06 12:13:04,771 INFO: 127.0.0.1 - - [06/Oct/2024 12:13:04] "POST /search HTTP/1.1" 200 -
+2024-10-06 12:15:00,371 INFO: 127.0.0.1 - - [06/Oct/2024 12:15:00] "GET / HTTP/1.1" 200 -
+2024-10-06 12:15:00,403 INFO: 127.0.0.1 - - [06/Oct/2024 12:15:00] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 12:15:00,406 INFO: 127.0.0.1 - - [06/Oct/2024 12:15:00] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 12:15:14,078 INFO: 127.0.0.1 - - [06/Oct/2024 12:15:14] "GET / HTTP/1.1" 200 -
+2024-10-06 12:15:14,104 INFO: 127.0.0.1 - - [06/Oct/2024 12:15:14] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 12:15:14,118 INFO: 127.0.0.1 - - [06/Oct/2024 12:15:14] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 12:15:38,148 INFO: 127.0.0.1 - - [06/Oct/2024 12:15:38] "GET / HTTP/1.1" 200 -
+2024-10-06 12:15:38,173 INFO: 127.0.0.1 - - [06/Oct/2024 12:15:38] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 12:15:38,184 INFO: 127.0.0.1 - - [06/Oct/2024 12:15:38] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 12:24:28,379 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-06 12:24:28,582 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:28] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-06 12:24:28,585 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:28] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-06 12:24:28,648 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:28] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=3q3Zhz11JzzPlKsf2YyW HTTP/1.1" 200 -
+2024-10-06 12:24:28,717 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-06 12:24:30,621 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-06 12:24:30,650 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-06 12:24:30,662 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-06 12:24:30,692 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=3q3Zhz11JzzPlKsf2YyW HTTP/1.1[0m" 304 -
+2024-10-06 12:24:30,763 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-06 12:24:31,706 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-06 12:24:31,748 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:31] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-06 12:24:31,752 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:31] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-06 12:24:31,778 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=3q3Zhz11JzzPlKsf2YyW HTTP/1.1[0m" 304 -
+2024-10-06 12:24:31,848 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-06 12:24:57,743 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:57] "GET / HTTP/1.1" 200 -
+2024-10-06 12:24:57,766 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:57] "[33mGET /nasa-logo.png HTTP/1.1[0m" 404 -
+2024-10-06 12:24:57,787 INFO: 127.0.0.1 - - [06/Oct/2024 12:24:57] "[33mGET /background.jpg HTTP/1.1[0m" 404 -
+2024-10-06 12:25:05,061 INFO: Search results retrieved successfully for query: fire
+2024-10-06 12:25:05,065 INFO: 127.0.0.1 - - [06/Oct/2024 12:25:05] "POST /search HTTP/1.1" 200 -
+2024-10-06 12:31:39,414 INFO:  * Detected change in 'C:\\Users\\sudarshan\\api nasa\\app.py', reloading
+2024-10-06 12:31:39,522 INFO:  * Restarting with stat
